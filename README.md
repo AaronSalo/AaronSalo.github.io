@@ -19,7 +19,7 @@ After learning how Markdown works, and writing a nice, clean resume using it, we
 
 ### Step 1: Create a New Repo
 First, we need to create a new repository on GitHub, naming it `YourUserName/github.io`. 
-gif here
+![Creating a repo gif](images/newRepo.gif)
 
 
 ### Step 2: Create an `index.md`
