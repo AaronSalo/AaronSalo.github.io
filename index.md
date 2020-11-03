@@ -1,1 +1,1 @@
-[Resume](https://aaronsalo.github.io/Readme.md)
+[Readme](https://aaronsalo.github.io/README.md)
