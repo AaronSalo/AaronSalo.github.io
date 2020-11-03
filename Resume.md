@@ -1,9 +1,8 @@
 
 # **Aaron Salo**
 
-(431) 997-4350 - [saloamj@myumanitoba.ca](mailto:saloamj@myumanitoba.ca)
+(431) 997-4350 - [saloamj@myumanitoba.ca](mailto:saloamj@myumanitoba.ca) - github.com/AaronSalo
 
-github.com/AaronSalo
 
 
 # EDUCATION
