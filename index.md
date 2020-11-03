@@ -1,2 +1,1 @@
-# Hello
-**Whats up** its me
+[Resume](https://aaronsalo.github.io/Readme.md)
