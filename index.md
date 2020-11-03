@@ -8,7 +8,7 @@
 ## EDUCATION
 
 
-### B.Sc. Computer Science Honours (Co-op Option)_ - 4th Year	        _September 2017 - Present
+### B.Sc. Computer Science Honours (Co-op Option) - 4th Year	        September 2017 - Present
 
 University of Manitoba
 
@@ -16,7 +16,7 @@ University of Manitoba
 ## PROJECTS
 
 
-### FishyCats_ - Personal Project					         		  _Summer 2020
+### FishyCats - Personal Project					         		  Summer 2020
 
 
 
@@ -24,7 +24,7 @@ University of Manitoba
 *   Developed for Android and iOS utilizing Unity with C#
 
 
-### SickNasty _- Software Engineering							    _Winter 2020 
+### SickNasty - Software Engineering							    Winter 2020 
 
 
 
@@ -34,7 +34,7 @@ University of Manitoba
 *   Implemented unit tests, exceptions and comment functionality
 
 
-### Quick Cuisine _- Human-Computer Interaction					        _Fall 2019
+### Quick Cuisine - Human-Computer Interaction					        Fall 2019
 
 
 
@@ -43,7 +43,7 @@ University of Manitoba
 *   Used a combination of JavaScript, CSS, HTML, and jQuery to create a satisfying interface that is easy to navigate
 
 
-### The Last Samurai _- Personal Project					         	 _Summer 2019
+### The Last Samurai - Personal Project					         	 Summer 2019
 
 
 
@@ -70,7 +70,7 @@ University of Manitoba
 ## WORK EXPERIENCE
 
 
-### PR and Communications Rep_ - Forever Families of Canada         	  _Summers 2019 - 2020
+### PR and Communications Rep - Forever Families of Canada         	  Summers 2019 - 2020
 
 
 
@@ -82,7 +82,7 @@ University of Manitoba
 *   Scheduled locations for filming/recording
 
 
-### General Labour_ - Under the Sun Landscaping				   _Summers 2015 - 2018
+### General Labour - Under the Sun Landscaping				   Summers 2015 - 2018
 
 
 
@@ -93,7 +93,7 @@ University of Manitoba
 ## VOLUNTEER EXPERIENCE
 
 
-### Basketball Coach_ - The King’s School Knights					      _2016 - 2018
+### Basketball Coach - The King’s School Knights					     2016 - 2018
 
 
 
@@ -103,7 +103,7 @@ University of Manitoba
 ## EXTRA-CURRICULAR ACTIVITIES
 
 
-### Participant _- PegJam						        	        	         _Fall 2019
+### Participant - PegJam						        	        	         Fall 2019
 
 
 
@@ -111,7 +111,7 @@ University of Manitoba
 *   Developed in Unity with C#
 
 
-### Participant _- CSSA GameJam					         		         _Fall 2019
+### Participant - CSSA GameJam					         		         Fall 2019
 
 
 
@@ -119,7 +119,7 @@ University of Manitoba
 *   Created simple dungeon game: _1HP Dungeon_, developed in Unity with C#
 
 
-### Contestant_ - ICPC North Central Regional Contest  		   		         _Fall 2019
+### Contestant - ICPC North Central Regional Contest  		   		         Fall 2019
 
 
 
@@ -134,7 +134,7 @@ University of Manitoba
 *   Assistant Captain/Manager, The Turtle Club - Summer 2020
 
 
-### Player _- Mayhem Basketball								    _2019
+### Player - Mayhem Basketball								    2019
 
 
 
