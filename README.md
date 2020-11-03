@@ -19,21 +19,22 @@ After learning how Markdown works, and writing a nice, clean resume using it, we
 
 ### Step 1: Create a New Repo
 First, we need to create a new repository on GitHub, naming it `YourUserName/github.io`. 
-gif here
+![Creating a repo gif](images/newRepo.gif)
 
 
 ### Step 2: Create an `index.md`
 Next we can add an index.md to the repository, and give it a couple lines of test text. This is the default page for your GitHub webpage.
-gif here
+![Adding an index.md gif](images/createIndex.gif)
 
 
 ### Step 3: Choose a Theme!
 Finally, we can add a theme to our site to make it look all pretty. From your repo, click on settings, then just scroll down to the GitHub Pages section, and click `Change theme`. Just choose a theme that you like, and it will automatically generate your site using that theme.
-gif
+![Choosing a theme gif](images/changeTheme.gif)
 
 
 ### We're Done!
 We're done! You can access the page at `yourUserName/github.io`, and it should show anything you put into your `index.md` formatted with the theme you chose. Now all you really have to do is paste your Markdown formatted resume in, or whatever else you want to host there. And... _Voila!_
+![Show resume gif](images/seeWebsite.gif)
 
 ### FAQ 
 some freqently asked questions
