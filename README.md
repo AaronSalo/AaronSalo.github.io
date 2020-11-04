@@ -72,9 +72,9 @@ Screen to gif [here](https://www.screentogif.com/)
 ### Acknowledgements
 Jekyll Theme: Time Machine
 
-Peer Review:
-Kyle Lamoureux
-Kevin Davis
-Tianlei Wang
+Peer Review:<br>
+Kyle Lamoureux <br>
+Kevin Davis<br>
+Tianlei Wang <br>
 Sheikh Shafayet Hossain
 
