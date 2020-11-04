@@ -29,7 +29,14 @@ First, we need to create a new repository on GitHub, naming it `YourUserName/git
 <br>
 
 ### Step 2: Create an `index.md`
-Next we can add an index.md to the repository, and give it a couple lines of test text. This is the default page for your GitHub webpage.
+Next we can add an `index.md` to the repository, and give it a couple lines of test text. This is the default page for your GitHub webpage. We'll be pasting our Markdown Resume here eventually.
+
+<details>
+  <summary>Another Pro to Markdown</summary>
+  
+*Another reason Markdown is a handy tool is that it can be directly converted to HTML with no special tricks or anything. We can paste our `.md` file and be done with it.*
+</details>
+
 ![Adding an index.md gif](images/createIndex.gif)
 <br><br><br>
 
