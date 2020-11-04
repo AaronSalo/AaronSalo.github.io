@@ -61,7 +61,7 @@ We're done! You can access the page at `yourUserName/github.io`, and it should s
 <details>
   <summary>Notes on the design of this Tutorial</summary>
   
-*The design of this tutorial was based on a subject called Basic Functional Documentation, talked about in [Andrew Etters book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS#:~:text=Written%20by%20the%20lead%20technical,and%20experienced%20technical%20writers%20alike.). I have tried to answer all the questions brought up in this section, so as to convey the information in the best way possible. We are also assuming some sort of technical knowledge in the reader, and not explaining so much as to how to do the specifics of converting their resume to Markdown. This leaves us with a cleaner, and more consise rundown.*
+*The design of this tutorial was based on a subject called Basic Functional Documentation, talked about in [Andrew Etters book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS#:~:text=Written%20by%20the%20lead%20technical,and%20experienced%20technical%20writers%20alike.). I have tried to answer all the questions brought up in this section, so as to convey the information in the best way possible, such as where to aquire things, how things work, and what the end to finish product looks like. We are also assuming some sort of technical knowledge in the reader, and not explaining so much as to how to do the specifics of converting their resume to Markdown. This leaves us with a cleaner, and more consise rundown, and is also discussed in the aforementioned book.*
 </details>
 
 ### Resources
