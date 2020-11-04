@@ -65,7 +65,7 @@ We're done! You can access the page at `yourUserName/github.io`, and it should s
 </details>
 
 ### Resources
-* Andrew Etter - Modern Technical Writing: An Introduction to Software Documentation[here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS#:~:text=Written%20by%20the%20lead%20technical,and%20experienced%20technical%20writers%20alike.)
+* Andrew Etter - Modern Technical Writing: An Introduction to Software Documentation [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS#:~:text=Written%20by%20the%20lead%20technical,and%20experienced%20technical%20writers%20alike.)
 * Markdown Tutorial [here](https://www.markdowntutorial.com/)
 * Screen to gif [here](https://www.screentogif.com/)
 
