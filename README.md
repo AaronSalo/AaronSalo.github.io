@@ -70,7 +70,7 @@ We're done! You can access the page at `yourUserName/github.io`, and it should s
 * Screen to gif [here](https://www.screentogif.com/)
 
 ### Acknowledgements
-Jekyll Theme: Time Machine <br?
+Jekyll Theme: Time Machine <br>
 **Peer Reviewed by:**<br>
 Kyle Lamoureux <br>
 Kevin Davis<br>
